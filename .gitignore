@@ -1,0 +1,18 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & credentials
+data/
+output/
+.env
+*.parquet
+*.csv
+
+# VS Code settings
+.vscode/
