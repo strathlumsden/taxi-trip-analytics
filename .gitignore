@@ -16,3 +16,6 @@ output/
 
 # VS Code settings
 .vscode/
+
+# Virtual environments
+venv/
